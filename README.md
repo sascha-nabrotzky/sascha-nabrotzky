@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sascha-nabrotzky
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning JavaScript and PHP
+- 🌱 I’m currently learning JavaScript, React and Graphql
 - 📫 How to reach me ----> visit **sascha-nabrotzky.github.io**
 
 <!---
