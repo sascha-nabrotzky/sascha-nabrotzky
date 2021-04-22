@@ -12,6 +12,7 @@ Before that I programmed websites purely in HTML/CSS3 and Joomla! came into use.
 <img src="https://img.shields.io/badge/HTML5-2009-orange?&style=for-the-badge&logo=html5&logoColor=white" alt="html badge" /> 
 <img src="https://img.shields.io/badge/CSS3-2009-green?&style=for-the-badge&logo=css3&logoColor=white" alt="react badge" />
 <img src="https://img.shields.io/badge/GitHub-2020-orange?&style=for-the-badge&logo=github&logoColor=white" alt="github badge" />
+<img src="https://img.shields.io/badge/Visual Studio Code-blue?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual studio code badge" />
 
 ## I'm currently learning
 
