@@ -8,6 +8,7 @@ Before that I programmed websites purely in HTML/CSS3 and Joomla! came into use.
 
 <img src="https://img.shields.io/badge/JavaScript-2019-yellow?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript badge" />  
 <img src="https://img.shields.io/badge/React-2020-blue?&style=for-the-badge&logo=react&logoColor=white" alt="react badge" />  
+<img src="https://img.shields.io/badge/Gatsby-2020-red?&style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby badge" /> 
 <img src="https://img.shields.io/badge/SCSS-2020-ff69b4?&style=for-the-badge&logo=sass&logoColor=white" alt="sass badge" />
 <img src="https://img.shields.io/badge/HTML5-2009-orange?&style=for-the-badge&logo=html5&logoColor=white" alt="html badge" /> 
 <img src="https://img.shields.io/badge/CSS3-2009-green?&style=for-the-badge&logo=css3&logoColor=white" alt="react badge" />
@@ -24,6 +25,8 @@ Before that I programmed websites purely in HTML/CSS3 and Joomla! came into use.
 [<img src="https://img.shields.io/badge/Instagram-orange?&style=for-the-badge&logo=instagram&logoColor=white" alt="react badge" />](https://www.instagram.com/arrow_function0/)
 [<img src="https://img.shields.io/badge/Website-blue?&style=for-the-badge&logo=website&logoColor=white" alt="react badge" />](https://sascha-nabrotzky.github.io/)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sascha-nabrotzky&layout=compact)](https://github.com/sascha-nabrotzky/github-readme-stats)
 <!---
 sascha-nabrotzky/sascha-nabrotzky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
