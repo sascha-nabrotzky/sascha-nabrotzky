@@ -17,8 +17,8 @@ Before that I programmed websites purely in HTML/CSS3 and Joomla! came into use.
 
 ## I'm currently learning
 
-<img src="https://img.shields.io/badge/Vue-2021-green?&style=for-the-badge&logo=vue&logoColor=white" alt="vue badge" />
-<img src="https://img.shields.io/badge/Python-2021-green?&style=for-the-badge&logo=python&logoColor=white" alt="python badge" />
+<img src="https://img.shields.io/badge/Vue-2021-green?&style=for-the-badge&logo=vue.js&logoColor=white" alt="vue badge" />
+<img src="https://img.shields.io/badge/PHP-2021-blue?&style=for-the-badge&logo=php&logoColor=white" alt="php badge" />
 
 ## Find me here
 
