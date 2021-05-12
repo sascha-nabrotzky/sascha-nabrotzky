@@ -2,7 +2,7 @@
 I taught myself to program in JavaScript and afterwards created some webapps / websites with the help of React, some of which I will continue to maintain. I also got to know **HTML5, SCSS, React Router, Helmet, Gatsby, GraphQL** - but there is still a lot to learn. To really get to the heart of websites, I took courses in **UI / UX design.**
 Before that I programmed websites purely in HTML/CSS3 and Joomla! came into use. No matter what I do, I always end up in the source code.
 
-### I love to .fetch data to the project from anywhere without losing sight of the design.
+### I love to programming a website without losing sight of the design.
 
 ## I mainly use
 
