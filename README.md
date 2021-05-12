@@ -6,19 +6,13 @@ Before that I programmed websites purely in HTML/CSS3 and Joomla! came into use.
 
 ## I mainly use
 
-<img src="https://img.shields.io/badge/JavaScript-2019-yellow?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript badge" />  
-<img src="https://img.shields.io/badge/React-2020-blue?&style=for-the-badge&logo=react&logoColor=white" alt="react badge" />  
-<img src="https://img.shields.io/badge/Gatsby-2020-red?&style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby badge" /> 
-<img src="https://img.shields.io/badge/SCSS-2020-ff69b4?&style=for-the-badge&logo=sass&logoColor=white" alt="sass badge" />
-<img src="https://img.shields.io/badge/HTML5-2009-orange?&style=for-the-badge&logo=html5&logoColor=white" alt="html badge" /> 
-<img src="https://img.shields.io/badge/CSS3-2009-green?&style=for-the-badge&logo=css3&logoColor=white" alt="react badge" />
-<img src="https://img.shields.io/badge/GitHub-2020-orange?&style=for-the-badge&logo=github&logoColor=white" alt="github badge" />
-<img src="https://img.shields.io/badge/Visual Studio Code-blue?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual studio code badge" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript badge" />  <img src="https://img.shields.io/badge/React-61DBFB?&style=for-the-badge&logo=react&logoColor=white" alt="react badge" />  <img src="https://img.shields.io/badge/Gatsby-purple?&style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby badge" /> <img src="https://img.shields.io/badge/SCSS-CD6799?&style=for-the-badge&logo=sass&logoColor=white" alt="sass badge" /> <img src="https://img.shields.io/badge/HTML5-e34c26?&style=for-the-badge&logo=html5&logoColor=white" alt="html badge" /> <img src="https://img.shields.io/badge/CSS3-264de4?&style=for-the-badge&logo=css3&logoColor=white" alt="react badge" /> 
+
+<img src="https://img.shields.io/badge/GitHub-211F1F?&style=for-the-badge&logo=github&logoColor=white" alt="github badge" /> <img src="https://img.shields.io/badge/Visual Studio Code-blue?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual studio code badge" />
 
 ## I'm currently learning
 
-<img src="https://img.shields.io/badge/Vue-2021-green?&style=for-the-badge&logo=vue.js&logoColor=white" alt="vue badge" />
-<img src="https://img.shields.io/badge/PHP-2021-blue?&style=for-the-badge&logo=php&logoColor=white" alt="php badge" />
+<img src="https://img.shields.io/badge/Vue-42b883?&style=for-the-badge&logo=vue.js&logoColor=white" alt="vue badge" /> <img src="https://img.shields.io/badge/PHP-blue?&style=for-the-badge&logo=php&logoColor=white" alt="php badge" />
 
 ## Find me here
 
