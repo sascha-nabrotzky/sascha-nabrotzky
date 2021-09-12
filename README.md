@@ -12,7 +12,7 @@ Before that I programmed websites purely in HTML/CSS3 and Joomla! came into use.
 
 ## I'm currently learning
 
-<img src="https://img.shields.io/badge/Vue-42b883?&style=for-the-badge&logo=vue.js&logoColor=white" alt="vue badge" /> <img src="https://img.shields.io/badge/PHP-blue?&style=for-the-badge&logo=php&logoColor=white" alt="php badge" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript badge" />  <img src="https://img.shields.io/badge/React-61DBFB?&style=for-the-badge&logo=react&logoColor=white" alt="react badge" />
 
 ## Find me here
 
