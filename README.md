@@ -10,7 +10,7 @@ Before that I programmed websites purely in HTML/CSS3 and Joomla! came into use.
 
 <img src="https://img.shields.io/badge/GitHub-211F1F?&style=for-the-badge&logo=github&logoColor=white" alt="github badge" /> <img src="https://img.shields.io/badge/Visual Studio Code-blue?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual studio code badge" />
 
-## I'm currently learning
+## I'm currently deepen my knowledge in
 
 <img src="https://img.shields.io/badge/JavaScript-yellow?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript badge" />  <img src="https://img.shields.io/badge/React-61DBFB?&style=for-the-badge&logo=react&logoColor=white" alt="react badge" />
 
