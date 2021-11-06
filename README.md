@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @sascha-nabrotzky
 I taught myself to program in JavaScript and afterwards created some websites with the help of React, some of which I will continue to maintain. I also got to know **HTML5, SCSS, React Router, Helmet, Gatsby, GraphQL** - but there is still a lot to learn. To really get to the heart of websites, I took courses in **UI / UX design.**
-Before that I programmed websites purely in HTML/CSS3 and Joomla! came into use. No matter what I do, I always end up in the source code.
 
 ### I love to programming a website without losing sight of the design.
 
@@ -12,7 +11,11 @@ Before that I programmed websites purely in HTML/CSS3 and Joomla! came into use.
 
 ## I'm currently deepen my knowledge in
 
-<img src="https://img.shields.io/badge/JavaScript-yellow?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript badge" />  <img src="https://img.shields.io/badge/React-61DBFB?&style=for-the-badge&logo=react&logoColor=white" alt="react badge" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript badge" />  
+
+## ... and start learning
+
+<img src="https://img.shields.io/badge/php-61DBFB?&style=for-the-badge&logo=php&logoColor=white" alt="php badge" /> <img src="https://img.shields.io/badge/typo3-e34c26?&style=for-the-badge&logo=typo3&logoColor=white" alt="typo3 badge" />
 
 ## Find me here
 
