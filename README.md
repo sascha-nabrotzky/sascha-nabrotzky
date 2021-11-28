@@ -15,7 +15,7 @@ I taught myself to program in JavaScript and afterwards created some websites wi
 
 ## ... and start learning
 
-<img src="https://img.shields.io/badge/php-61DBFB?&style=for-the-badge&logo=php&logoColor=white" alt="php badge" /> <img src="https://img.shields.io/badge/typo3-e34c26?&style=for-the-badge&logo=typo3&logoColor=white" alt="typo3 badge" />
+<img src="https://img.shields.io/badge/typo3-e34c26?&style=for-the-badge&logo=typo3&logoColor=white" alt="typo3 badge" />
 
 ## Find me here
 
