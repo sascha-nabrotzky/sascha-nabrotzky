@@ -19,9 +19,7 @@ I taught myself to program in JavaScript and afterwards created some websites wi
 
 ## Find me here
 
-[<img src="https://img.shields.io/badge/Twitter-blue?&style=for-the-badge&logo=twitter&logoColor=white" alt="react badge" />](https://twitter.com/Arrow_Function0)
-[<img src="https://img.shields.io/badge/Instagram-orange?&style=for-the-badge&logo=instagram&logoColor=white" alt="react badge" />](https://www.instagram.com/arrow_function0/)
-[<img src="https://img.shields.io/badge/Website-blue?&style=for-the-badge&logo=website&logoColor=white" alt="react badge" />](https://sascha-nabrotzky.github.io/)
+[<img src="https://img.shields.io/badge/Twitter-blue?&style=for-the-badge&logo=twitter&logoColor=white" alt="react badge" />](https://twitter.com/Arrow_Function0) [<img src="https://img.shields.io/badge/Website-blue?&style=for-the-badge&logo=website&logoColor=white" alt="react badge" />](https://sascha-nabrotzky.github.io/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sascha-nabrotzky&layout=compact)](https://github.com/sascha-nabrotzky/github-readme-stats)
