@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @sascha-nabrotzky
-I taught myself to program in JavaScript and afterwards created some websites with the help of React, some of which I will continue to maintain. I also got to know **HTML5, SCSS, React Router, Helmet, Gatsby, GraphQL** - but there is still a lot to learn. To really get to the heart of websites, I took courses in **UI / UX design.**
+I taught myself how to program responsive websites in **HTML5, CSS3, SCSS** and **JavaScript**, later **React** was added. I also work a lot with **TYPO3, Bootstrap** and **Fluid templating engine.** In order to really get to the heart of websites, I also took courses in **UI / UX Design**.
 
 ### I love to programming a website without losing sight of the design.
 
