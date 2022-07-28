@@ -5,7 +5,7 @@ I taught myself how to program responsive websites in **HTML5, CSS3, SCSS** and 
 
 ## I mainly use
 
-<img src="https://img.shields.io/badge/typo3-e34c26?&style=for-the-badge&logo=typo3&logoColor=white" alt="typo3 badge" /> <img src="https://img.shields.io/badge/React-61DBFB?&style=for-the-badge&logo=react&logoColor=white" alt="react badge" /> <img src="https://img.shields.io/badge/JavaScript-yellow?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript badge" /> <img src="https://img.shields.io/badge/SCSS-CD6799?&style=for-the-badge&logo=sass&logoColor=white" alt="sass badge" /> <img src="https://img.shields.io/badge/HTML5-e34c26?&style=for-the-badge&logo=html5&logoColor=white" alt="html badge" /> <img src="https://img.shields.io/badge/CSS3-264de4?&style=for-the-badge&logo=css3&logoColor=white" alt="react badge" /> 
+<img src="https://img.shields.io/badge/typo3-e34c26?&style=for-the-badge&logo=typo3&logoColor=white" alt="typo3 badge" /> <img src="https://img.shields.io/badge/JavaScript-yellow?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript badge" /> <img src="https://img.shields.io/badge/SCSS-CD6799?&style=for-the-badge&logo=sass&logoColor=white" alt="sass badge" /> <img src="https://img.shields.io/badge/HTML5-e34c26?&style=for-the-badge&logo=html5&logoColor=white" alt="html badge" /> <img src="https://img.shields.io/badge/CSS3-264de4?&style=for-the-badge&logo=css3&logoColor=white" alt="react badge" /> 
 
 <img src="https://img.shields.io/badge/GitHub-211F1F?&style=for-the-badge&logo=github&logoColor=white" alt="github badge" /> <img src="https://img.shields.io/badge/Visual Studio Code-blue?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual studio code badge" />
 
