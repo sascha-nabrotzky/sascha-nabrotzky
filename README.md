@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @sascha-nabrotzky
-I taught myself how to program responsive websites in **HTML5, CSS3, SCSS** and **JavaScript**, later **React** was added. In order to really get to the heart of websites, I also took courses in **UI / UX Design**.
+I'm a UI designer and front-end developer with experience in information architecture and UX design. I love to build my Websites with React. I intensified my experience in CSS3/SCSS in an agency and build responsive websites with **HTML5, CSS3, SCSS** and **JavaScript**.
 
 ### I love to programming a website without losing sight of the design.
 
