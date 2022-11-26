@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @sascha-nabrotzky
-I taught myself how to program responsive websites in **HTML5, CSS3, SCSS** and **JavaScript**, later **React** was added. I also work a lot with **TYPO3, Bootstrap** and **Fluid templating engine.** In order to really get to the heart of websites, I also took courses in **UI / UX Design**.
+I taught myself how to program responsive websites in **HTML5, CSS3, SCSS** and **JavaScript**, later **React** was added. In order to really get to the heart of websites, I also took courses in **UI / UX Design**.
 
 ### I love to programming a website without losing sight of the design.
 
