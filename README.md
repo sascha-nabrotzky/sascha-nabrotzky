@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @sascha-nabrotzky
-I'm a Web designer who loves to code with React and CSS3.
+I'm a UI/UX designer who loves to code with React and CSS3.
 
 ### I love to programming a website without losing sight of the design.
 
