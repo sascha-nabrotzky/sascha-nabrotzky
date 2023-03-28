@@ -11,7 +11,7 @@ Building Websites and Apps with React/SCSS and UX/UI-Design are my passion.
 <img src="https://img.shields.io/badge/GitHub-211F1F?&style=for-the-badge&logo=github&logoColor=white" alt="github badge" /> <img src="https://img.shields.io/badge/Visual Studio Code-blue?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual studio code badge" />
 
 ### Design
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ## I'm currently deepen my knowledge in
 
@@ -20,9 +20,6 @@ Building Websites and Apps with React/SCSS and UX/UI-Design are my passion.
 ## Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sn.photo.de.sign) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sascha-nabrotzky-b7429521a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Arrow_Function0) 
-
-### Lastest Tweet
-[![](https://gtce.itsvg.in/api?username=@Arrow_Function0)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ## Portfolio
 [<img src="https://img.shields.io/badge/Website-blue?&style=for-the-badge&logo=website&logoColor=white" alt="react badge" />](https://sascha-nabrotzky.github.io/)
