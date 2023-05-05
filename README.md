@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @sascha-nabrotzky
+# 👋 Hi, I’m 🦄 @sascha-nabrotzky
 
-Building Websites and Apps with React/SCSS and UX/UI-Design are my passion.
+Building Websites/Apps or creating design systems with React, Storybook and UX/UI-Design are my passion.
 
 ### I love to programming a website without losing sight of the design.
 
