@@ -22,7 +22,7 @@ Building Websites/Apps or creating design systems with React, Storybook and UX/U
 
 ## Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sn.photo.de.sign) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sascha-nabrotzky-b7429521a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Arrow_Function0) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sascha-nabrotzky-b7429521a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Arrow_Function0) 
 
 ## Portfolio
 [<img src="https://img.shields.io/badge/Website-blue?&style=for-the-badge&logo=website&logoColor=white" alt="react badge" />](https://sascha-nabrotzky.github.io/)
