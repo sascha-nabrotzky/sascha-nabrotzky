@@ -1,6 +1,6 @@
 # 👋 Hi, I’m 🦄 @sascha-nabrotzky
 
-### Building Websites/Apps with React, TYPO3 and UX/UI-Design are my passion.
+### Building Websites/Apps with React, TYPO3 and UX/UI-Design is my passion.
 
 ## I mainly use
 
