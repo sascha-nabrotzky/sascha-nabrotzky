@@ -26,7 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sascha-nabrotzky-b7429521a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Arrow_Function0) 
 
 ## Portfolio
-[<img src="https://img.shields.io/badge/Website-blue?&style=for-the-badge&logo=website&logoColor=white" alt="react badge" />](https://sascha-nabrotzky.github.io/)
+[<img src="https://img.shields.io/badge/Website-blue?&style=for-the-badge&logo=website&logoColor=white" alt="react badge" />](https://sascha-nabrotzky.de)
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=sascha-nabrotzky&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=sascha-nabrotzky&theme=dark&hide_border=false)<br/>
